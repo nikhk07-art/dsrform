@@ -5,7 +5,7 @@ import path from "path";
 // https://vitejs.dev/config/
 export default defineConfig({
   plugins: [react()],
-    base: '/YOUR_REPOSITORY_NAME/',
+    base: '/dsrform/',
 })
   resolve: {
     alias: {
